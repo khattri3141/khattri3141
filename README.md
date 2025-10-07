@@ -4,11 +4,11 @@
 
 **Languages:**
 
-![TypeScript](./icons/TypeScript.png)
-![JavaScript](./icons/JavaScript.png)
-![C#](./icons/CS.png)
-![Java](./icons/Java-Light.png)
+![TypeScript](./icons/icons/TypeScript.png)
+![JavaScript](./icons/icons/JavaScript.png)
+![C#](./icons/icons/CS.png)
+![Java](./icons/icons/Java-Light.png)
   
 **Front-end:**
 
-![React](./icons/React-Dark.png)
+![React](./icons/icons/React-Dark.png)
